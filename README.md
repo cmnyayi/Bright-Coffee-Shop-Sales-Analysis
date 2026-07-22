@@ -68,14 +68,14 @@ The cleaned dataset was analysed to identify:
 - Peak sales periods
 - Low-performing sales periods
 
-## 📈 Key Analysis
+## Key Analysis
 
 ### ☕ Sales by Product Category
 The analysis identified the product categories contributing the most to total sales.
 
 This helped determine which categories were the strongest contributors to revenue and which categories may require further attention or promotional support.
 
-### ⏰ Sales by Time of Day
+###  Sales by Time of Day
 
 The analysis showed that **Rush Hour** was the strongest sales period, while **Night** recorded the lowest sales performance.
 
@@ -84,12 +84,12 @@ This provides an opportunity for the business to:
 - Ensure sufficient stock availability during high-demand periods
 - Introduce promotions during lower-performing periods
 
-### 📅 Sales by Day of the Week
+### Sales by Day of the Week
 Sales performance varied across the days of the week.
 
 The analysis helped identify stronger and weaker sales days, allowing the business to better understand customer purchasing behaviour and plan staffing and promotions accordingly.
 
-### 📈 Sales by Month
+### Sales by Month
 
 The monthly analysis showed an overall upward trend in sales towards the later months of the period analysed.
 
@@ -103,7 +103,7 @@ This provides useful information for understanding sales growth and planning fut
 - Monthly sales showed an overall upward trend towards the later months of the analysis period.
 - Customer purchasing behaviour varied depending on the time and day of purchase.
 - 
-## 📊 Business Recommendations
+##  Business Recommendations
 
 Based on the analysis, the following recommendations were made:
 ### 1. Focus on High-Performing Product Categories
@@ -126,7 +126,7 @@ The business should regularly track important metrics such as:
 - Sales by day of the week
 - Monthly sales trends
 
-## 📌 Project Outcome
+##  Project Outcome
 
 This project demonstrates the use of SQL and data analysis techniques to transform raw transactional data into meaningful business insights.
 
@@ -139,13 +139,7 @@ The analysis helped identify:
 
 The insights generated from this analysis can support data-driven decision-making and help the coffee shop improve its sales strategy.
 
-## 📸 Project Visualisations
 
-The project includes visualisations showing:
-- Sales by product category
-- Sales by time of day
-- Daily sales performance
-- Monthly sales trends
 
 
 
